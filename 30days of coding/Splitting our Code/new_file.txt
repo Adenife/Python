@@ -1,0 +1,2 @@
+Welcome to file writing in python
+You are going to love uaing this
